@@ -1,1 +1,1 @@
-# SER515-22
+# Individual private repo for the Class SER515 
